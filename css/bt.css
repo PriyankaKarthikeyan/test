@@ -1,0 +1,181 @@
+
+.card-footer img{
+    margin-left: 50%;
+    width:20%;
+    height: 10%;
+
+}
+
+.card-footer p{
+    margin-left: 50%;
+    text-align: justify;
+    color: black;
+   
+}
+.footer {
+    padding: 50px 0 20px 0;
+    background-color: #090c14;
+    color: black;
+}
+.footer .title{
+	text-align: left;
+	color:black;
+	font-size:25px;
+}
+.footer .social-icon{
+	padding:0px;
+	margin:0px;
+}
+.footer .social-icon a{
+	display:inline-block;
+	color:#fff;
+	font-size:25px;
+	padding:5px;
+}
+.footer .acount-icon a{
+	display:block;
+	color:#fff;
+	font-size:18px;
+	padding:5px;
+	text-decoration:none;
+}
+.footer .acount-icon .fa{
+	margin-right:25px;
+}
+.footer .category a {
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+    padding: 5px 20px;
+    margin: 1px;
+    border-radius:4px;
+    margin-top: 6px;
+    background-color: black;
+    border: solid 1px #fff;
+}
+.footer .payment{
+	margin:0px;
+	padding:0px;
+	list-style-type:none
+}
+.footer .payment li{
+	list-style-type:none
+}
+.footer .payment li a {
+    text-decoration: none;
+    display: inline-block;
+    color: #fff;
+    float: left;
+    font-size: 25px;
+    padding: 10px 10px;
+}
+.card-footer
+{
+    margin-right: 30px;
+    background-color: lightgrey;
+    align-items: center;
+}
+.img-responsive
+{
+    display: block;
+}
+.card-img-top1
+{
+    margin-left: 15%;
+    margin-top: 5%;
+    align-content: center;
+    
+    
+}
+.card-title
+{
+    text-align: center;
+}
+.card-text
+{
+    text-align: center;
+}
+h4{
+    font-family: 'Courier New';
+    font-size: 20px;
+    text-align: left;
+    margin-top: 15px;
+}
+.title
+{
+    color: black;
+}
+.jumbotron
+{
+    background-size: cover;
+    
+    width:100%;
+    margin-top: 0%;
+    padding-bottom: 1px;
+    padding-top: 1px;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 50%;
+}
+.fab
+{
+    align-items: center;
+    align-content: center;
+    font-size: 50px;
+    margin-left:55px;
+    padding-left:10px;
+    margin-top: 33px;
+    color:black;
+}
+.form-horizontal
+{
+    font-family: 'Orbitron', sans-serif;
+}
+.i
+{
+    text-align: right;
+}
+.aim
+{
+    
+    font-family: 'Orbitron', sans-serif;
+    
+}
+.footer{
+    width: 100%;
+    background-image: linear-gradient(beige,green);
+}
+.foot
+{
+    border:10px;
+    
+    
+   text-align: left;
+   width: 100%;
+   height: 15px;
+   font-size: 30px;
+}
+.social{
+    text-align: center;
+   
+    margin-top: 2px;
+    margin-bottom: 2px;
+   
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+h5{
+    text-align: center;
+    font-family: 'Courier New';
+    font-size: 30px;
+}
+.control-label
+{
+    inline-size: 5px;
+}
+h6{
+    color: white;
+}
+.copy
+{
+    text-align: center;
+}
